@@ -4,7 +4,7 @@
   <defaultMapping>cut everything</defaultMapping>
   <disableSandbox>false</disableSandbox>
   <useFilenamesForJobs>true</useFilenamesForJobs>
-  <labName>Innoport Reutlingen</labName>
+  <labName>INNOPORT Reutlingen / makeRTreff</labName>
   <enableQRCodes>false</enableQRCodes>
   <fastQRCodes>false</fastQRCodes>
   <fabqrActive>false</fabqrActive>
