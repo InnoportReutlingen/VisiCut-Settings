@@ -5,7 +5,7 @@
   <description></description>
   <name>cut</name>
   <orderStrategy>INNER_FIRST</orderStrategy>
-  <useOutline>true</useOutline>
+  <useOutline>false</useOutline>
   <isCut>true</isCut>
   <width>0.5</width>
 </vectorProfile>
